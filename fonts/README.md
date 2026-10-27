@@ -1,0 +1,1 @@
+Place your licensed Mileast Regular .ttf or .otf and Roboto .ttf or .otf files here, then restart the app. Fonts are loaded privately on Windows, without a system installation. Installed copies also work. Until available, the interface uses Georgia and the AI response uses Segoe UI.
